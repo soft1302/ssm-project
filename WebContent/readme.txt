@@ -1,0 +1,2 @@
+ssm后台管理框架基础搭建，其中有一个注册样例，jsp为index.jsp
+mysql表结构在src目录下config目录下有一个sql后缀文件，即表结构
